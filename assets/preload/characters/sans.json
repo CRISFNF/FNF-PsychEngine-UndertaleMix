@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LostSans idledance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "lostSans left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 27,
+			"name": "LostSans DOWN Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				42
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "lostSans Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "LostSans Right Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sansote",
+	"position": [
+		20,
+		220
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		33,
+		108
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
