@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "IDLE LostPapy",
+	"position": [
+		60,
+		350
+	],
+	"scale": 0.45,
+	"image": "Menu_paxd",
+	"flipX": false
+}
